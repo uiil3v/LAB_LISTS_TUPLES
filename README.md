@@ -53,8 +53,6 @@ The program when run should run and displays a menu that asks the user what he/s
 ### **Constraints**
 
 * Use only **lists and tuples**.
-* Do **not** use dictionaries or sets.
-* Assume user input is always valid (no need for validation logic here).
 
 
 # Bonus
