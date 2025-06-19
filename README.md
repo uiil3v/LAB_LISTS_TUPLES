@@ -34,9 +34,9 @@ Write a program that performs the following tasks:
 
 2. **Check availability:** Ask the user to enter a seat (e.g., row 2, seat 10), and tell them whether the seat is **booked** or **available**.
 
-3. **Add a booking:** If the seat is available, add it to the `booked_seats` list.
+3. **Add a booking:** ask the user to enter the seat, row . if available, add it to the `booked_seats` list. else display a relevant message.
 
-4. **Cancel a booking:** Ask the user to enter a seat to cancel. If it's in the list, remove it.
+4. **Cancel a booking:** Ask the user to enter a row & a seat to cancel. If it's in the list, remove it.
 
 5. **Print all booked seats, sorted by row and then seat**.
 
